@@ -1,16 +1,4 @@
 # Assignment 1
-For the homework exercises we are using the Star Wars API. 
 
-https://starwars-databank.vercel.app/
-
-### HTML of things
-
----
-
-Here are two designs for an application. Your task is to create the HTML version of these designs. Please select the most appropriate structural elements. There's no need to add JavaScript or CSS. The aim is to conceptualize in terms of HTML elements. So, layout and design are not important at this moment. 
-
-HINT: one page with HTML elements would be fine.
-
-![assignment 1 - mobile](../images/mobile.png)
-
-![assignment 1 - desktop](../images/desktop.png)
+1. Add a navigation to the top of your (articles) page. Include links to an about page (could be empty), home page and a contact page (coud be empty). Please take WCAG guidelines into consideration and find out which one are relevant for type of situation.
+2. Add some contact information (be creative) to the bottom of your (articles) page. Again take the right WCAG guidelines into consideration.
