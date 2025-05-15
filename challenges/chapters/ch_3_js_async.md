@@ -1,7 +1,7 @@
 # JS asynchronous
 
 ## Github repo
-For the next lesson we are going to work with the following github [repo](https://github.com/HZ-HBO-ICT/my-second-monolith). This is een application within a node environment.
+For the next lesson we are going to work with the following github [repo](https://github.com/HZ-HBO-ICT/my-second-monolith). This is een application within a node environment. If you watch closely, you can see somewhat simalarities compared to a Laravel application.  
 
 Please try to answer the following answers
 1. What is routing and where to find it in this example?

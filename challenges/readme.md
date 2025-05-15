@@ -14,3 +14,6 @@
 ---
 1. [HTML assignment](./assignments/assignment_1.md)
 2. [CSS Tailwind assignment](./assignments/assignment_2.md)
+
+## Extra
+1. [BEM (Block Element Modifier)](./extra/bem.md)
