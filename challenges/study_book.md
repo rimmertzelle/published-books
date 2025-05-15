@@ -2,11 +2,11 @@
 
 This year's challenge classes will focus on the correct use of HTML structural elements, mobile-first design with TailwindCSS, and utilizing an API with Asynchronous JavaScript (AJAX).
 
-### Learning goals
+## Learning goals
 
 - The student uses modern web techniques (HTML and Tailwind) to implement a design that functions correctly on all browsers and consumes data from an API.
 
-### The final assignment
+## The final assignment
 
 You will implement a design for a simple web application that utilizes web services through a RESTful API.
 
@@ -32,7 +32,7 @@ Steps to successfully finish this assignment
 - [ ]  Host the project (for example on render.com)
 - [ ]  Hand in the link to the hosted solution and the zipped code on learn
 
-### Grading
+## Grading
 
 If you want your project to be graded, you have meet the next conditions
 
