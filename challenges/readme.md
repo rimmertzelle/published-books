@@ -20,3 +20,7 @@
 ## Extra
 1. [BEM (Block Element Modifier)](./extra/bem.md)
 2. [Webserver and Nodejs](./extra/webserver_nodejs.md)
+
+## Repositories used
+1. [My second monolith](https://github.com/HZ-HBO-ICT/my-second-monolith)
+2. [Articles API](https://github.com/HZ-HBO-ICT/articles)
