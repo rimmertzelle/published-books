@@ -39,7 +39,7 @@ If you want your project to be graded, you have meet the next conditions
 1. API and Design are approved
 2. The original (approved) design is implemented
 3. Code is handed in as a zipfile. (use .zip and **not** .rar or another exotic extension)
-4. A working example of the code is available for testing purpose
+4. A working example of the code is available for testing purpose (= deployed)
 
 **Rubric**
 
